@@ -147,5 +147,4 @@ try:
     print(f"  Polynomial Regression {target_col}: {poly_pred:.2f}")
 except Exception as e:
     print("Invalid input, skipping custom prediction.")
-
-print("\nAll results generated. Project complete!")
+print("\nAll results are generated. Project complete!")
